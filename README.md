@@ -1,6 +1,6 @@
 # KROKODIL-VZRYVAETSA
 Репозиторий со сборкой для minecraft-сервера KROKODIL-VZRYVAETSA.FUN<br>
-Адрес: [KROKODIL-VZRYVAETSA.FUN](77.221.154.33:25565)
+Адрес: [KROKODIL-VZRYVAETSA.FUN](77.221.154.33:25565)<br>
 Версия mincraft: 1.20.1<br>
 Версия forge: 47.2.21<br><br>
 ## Установка сборки через CurseForge (только для лицензии)
